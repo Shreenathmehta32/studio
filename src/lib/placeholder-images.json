@@ -1,3 +1,40 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "res1",
+      "description": "A person meditating peacefully in a serene environment.",
+      "imageUrl": "https://picsum.photos/seed/res1/600/400",
+      "imageHint": "meditation yoga"
+    },
+    {
+      "id": "res2",
+      "description": "A group of friends talking and supporting each other.",
+      "imageUrl": "https://picsum.photos/seed/res2/600/400",
+      "imageHint": "friends support"
+    },
+    {
+      "id": "res3",
+      "description": "A close-up of a person writing in a journal.",
+      "imageUrl": "https://picsum.photos/seed/res3/600/400",
+      "imageHint": "journaling writing"
+    },
+    {
+      "id": "res4",
+      "description": "Someone listening to music with headphones.",
+      "imageUrl": "https://picsum.photos/seed/res4/600/400",
+      "imageHint": "music headphones"
+    },
+    {
+      "id": "res5",
+      "description": "A person practicing deep breathing exercises.",
+      "imageUrl": "https://picsum.photos/seed/res5/600/400",
+      "imageHint": "breathing relax"
+    },
+    {
+      "id": "res6",
+      "description": "A collection of books about mental health and wellness.",
+      "imageUrl": "https://picsum.photos/seed/res6/600/400",
+      "imageHint": "books reading"
+    }
+  ]
 }
